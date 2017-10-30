@@ -23,7 +23,7 @@ $logger = createLogger();
 // You can now use your logger
 testLogger($logger);
 
-$myarray = ["Denis", "Orla"];
+$myarray = ["Test1", "Test2"];
 hello($myarray);
 
 
